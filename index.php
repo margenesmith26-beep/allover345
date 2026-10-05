@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://storage.googleapis.com/inf06/an/paip/sp.html/");
+header("Location: https://google.com");
 exit();
 ?>
